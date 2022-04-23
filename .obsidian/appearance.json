@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "translucency": false,
+  "textFontFamily": "JetBrains Mono,华康手札体W5P,黑体,微软雅黑",
+  "interfaceFontFamily": "JetBrains Mono,华康手札体W5P,思源宋体",
+  "monospaceFontFamily": "JetBrains Mono,华康手札体W5P,思源宋体",
+  "enabledCssSnippets": [
+    "vertical lines of list-2",
+    "【背景】In the sky v1.6 se_high transparency"
+  ]
+}

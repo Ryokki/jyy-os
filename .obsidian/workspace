@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "50eb83a617ecd451",
+    "type": "split",
+    "children": [
+      {
+        "id": "17558f07dd9d60f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记/(les2) 共享内存多线程.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bfd8cf6bb435043",
+    "type": "split",
+    "children": [
+      {
+        "id": "726daa3df8287fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f561d8c3d8e59c60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbee3425d7e6eda0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#B+树",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41273a13a204e679",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1700b6b4290065c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "c8a04807c58baac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "57656a2bca9ac0d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bdec6f36f7668f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/(les2) 共享内存多线程.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4596ff848ea451a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e441635d1e5d3bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b7be4071afd80b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/(les2) 共享内存多线程.md"
+              }
+            }
+          },
+          {
+            "id": "105640a7e4a6f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "active": "17558f07dd9d60f2",
+  "lastOpenFiles": [
+    "笔记/(les2) 共享内存多线程.md",
+    "笔记/(code) threads.h.md",
+    "README.md",
+    "index.md",
+    "003 Java/Java并发/理论基础.md",
+    "to-learn.md",
+    "003 Java/Java基础/注解.md",
+    "003 Java/Java基础/Java异常.md",
+    "003 Java/Java基础/流 Stream.md",
+    "002 数据库/细水长流/一个B+树的简单C++实现.md"
+  ]
+}
